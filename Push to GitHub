@@ -1,0 +1,6 @@
+1.	Open terminal in project folder: git init
+git add .
+git commit -m "Initial commit - full AI Sports Betting Bot"
+2. Connect and push: git remote add origin https://github.com/YOUR_USERNAME/ai-sports-betting-bot.git
+git branch -M main
+git push -u origin main
