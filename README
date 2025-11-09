@@ -1,8 +1,0 @@
-# AI Sports Betting Bot Predicts positive EV bets for NBA, NFL, MLB, NCAAB & NCAAF straight bets. ## Setup 1. Install Python 3.10+  2. Install dependencies:
-ODDS_API_KEY= 574144be4b38d4f1f4bd24177a2f6114
-## Features
-
-- Ensemble AI model: Random Forest + XGBoost + Logistic Regression  
-- Calculates Expected Value (EV) for bets  
-- Filters for profitable bets only  
-- Displays top bets in Streamlit dashboard
