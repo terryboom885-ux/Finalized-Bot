@@ -1,0 +1,4 @@
+ai_sports_betting_bot.py      # Main bot code
+requirements.txt              # Python dependencies
+README.md                     # Instructions
+.gitignore                     # Ignore cache & secrets
